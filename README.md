@@ -35,7 +35,7 @@ verdadeiro, falso ou desconhecido. Ex: A>B, C BETWEEN 20 AND 200
 - Constraints
 - Sequências
 
-## Projeto 1
+# Aula 2
 
 
 
